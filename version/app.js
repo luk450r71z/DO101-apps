@@ -6,7 +6,7 @@ var response;
 app.get('/', function (req, res) {
 
 
-    response = 'This is version 1 of the app';
+    response = 'Bienvenid a nuestro futuro Ricardo';
 
 
     res.send(response);
